@@ -1,5 +1,4 @@
 <h1 align="center"><code>Hello, there!</code></h1>
-<h1 align="center">This is Mouniesh✌️</h1>
 <h3 align="center">Building the Future, One Line of Code at a Time</h3>
 
 <div align="center" style="display: flex; align-items: center; justify-content:center;">

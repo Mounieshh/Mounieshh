@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mounieshh/](https://www.linkedin.com/in/mouniesh-vijayakumar-2447a2256/)) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/your-id](https://stackoverflow.com/users/24472241/mouniesh)) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=LeetCode&logoColor=%23d16c06)]([https://leetcode.com/your-profile](https://leetcode.com/u/Mounieshh/))
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)][(https://www.hackerrank.com/profile/your-profile](https://www.hackerrank.com/profile/iammounieshv))
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)]([https://www.hackerrank.com/profile/iammounieshv])
 <br>
 <img src="https://komarev.com/ghpvc/?username=mounieshh&label=Profile%20views&color=0e75b6&style=flat" alt="mounieshh" />
 

@@ -1,4 +1,4 @@
-<h1 align="center"><code>Hello, there!</code></h1>
+<h1 align="center"><code>Hi, there!</code></h1>
 <h3 align="center">Building the Future, One Line of Code at a Time</h3>
 
 <div align="center" style="display: flex; align-items: center; justify-content:center;">
@@ -12,7 +12,7 @@
 
 </div>
 
-- 🌱 I’m currently learning **Framer Motion, Next Authentication**
+- 🌱 I’m currently learning **Framer Motion, Next Auth**
 - 💬 Ask me about **React, Next.js**
 - 📫 How to reach me: **iammounieshv@gmail.com**
 
